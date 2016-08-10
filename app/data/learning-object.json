@@ -1,0 +1,7 @@
+{
+	"layouts" : {
+		"main" : {
+			"template" : "main.html"
+		}
+	}
+}
